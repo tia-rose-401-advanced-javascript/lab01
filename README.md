@@ -7,8 +7,8 @@ Author: Tia Rose
 Links and Resources
 
 submission PR
-travis
-back-end (when applicable)
+travis (https://www.travis-ci.com/tia-rose-401-advanced-javascript/lab01)
+back-end (https://boiling-earth-59255.herokuapp.com/)
 front-end (when applicable)
 Documentation
 
